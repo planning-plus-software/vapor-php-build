@@ -385,6 +385,7 @@ RUN set -xe \
         --with-pear \
         --enable-mbstring \
         --enable-soap \
+        --enable-sockets \
         --with-pdo-mysql=shared,mysqlnd \
         --enable-pcntl \
         --with-zip \
